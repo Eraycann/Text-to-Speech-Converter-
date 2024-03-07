@@ -30,7 +30,7 @@ Live Demo : [Voice Converter Demo](https://text-to-speech-converter-lac.vercel.a
 No special installation is required for this project. Simply download the project files and open the `index.html` file in a web browser.
 
 ## Contributing 🤝
-Feel free to use, modify, and contribute to the project! If you have any questions or feedback, you can reach me at nisagokdemir@gmail.com
+Feel free to use, modify, and contribute to the project! If you have any questions or feedback, you can reach me at eraycansivri@hotmail.com
 
 ## License
 This project is licensed under the **MIT License**.
