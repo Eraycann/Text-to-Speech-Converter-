@@ -3,6 +3,8 @@
 ## Overview
 The *Text to Speech Converter* is a web application that enables users to convert written text into speech. It provides a user-friendly interface for entering text, selecting a preferred voice, and listening to the generated speech.
 
+<img src="./images/readme.png" alt="" width="500" height="350">
+
 
 ## Technologies Used 🚀
 - **HTML**
@@ -21,7 +23,6 @@ The *Text to Speech Converter* is a web application that enables users to conver
    - Click the "Listen" button to initiate the text-to-speech conversion.
 
 
-<img src="./images/readme.png" alt="" width="500" height="350">
 
 ## Live Demo 🌐
 Live Demo : [Voice Converter Demo](https://text-to-speech-converter-lac.vercel.app)
